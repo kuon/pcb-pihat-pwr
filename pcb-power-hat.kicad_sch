@@ -2942,7 +2942,7 @@
     (property "Value" "ESDA25P35" (id 1) (at 36.83 112.395 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Diode_SMD:D_1206_3216Metric" (id 2) (at 48.895 109.22 0)
+    (property "Footprint" "goyman:QFN1610" (id 2) (at 48.895 109.22 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 48.895 109.22 0)
@@ -3308,7 +3308,7 @@
       (reference "D1") (unit 1) (value "Rev Prot") (footprint "Diode_SMD:D_SOD-128")
     )
     (path "/c174288b-0eff-49ba-956c-713c8d965d75"
-      (reference "D2") (unit 1) (value "ESDA25P35") (footprint "Diode_SMD:D_1206_3216Metric")
+      (reference "D2") (unit 1) (value "ESDA25P35") (footprint "goyman:QFN1610")
     )
     (path "/1e4d7c24-7723-4e89-a62d-a96c8c987cec"
       (reference "D3") (unit 1) (value "LED") (footprint "LED_SMD:LED_1206_3216Metric")
